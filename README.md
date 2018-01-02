@@ -19,7 +19,6 @@ Reporting tool should answer the following questions:
 This project makes use of Udacity's Linux-based virtual machine (VM) configuration which includes all of the necessary software to run the application.
 1. Download [Vagrant](https://www.vagrantup.com/) and install.
 2. Download [Virtual Box](https://www.virtualbox.org/) and install. 
-3. Clone this repository to a directory of your choice.
 
 #### Run these commands from the terminal in the folder where your vagrant is installed in: 
 1. ```vagrant up``` to start up the VM.
