@@ -1,5 +1,5 @@
 # Logs Analysis Project
-Building an informative summary from logs by sql database queries. Interacting with a live database both from the command line and from the python code. This project is a part of the Udacity Intro To Programing Nano Degree.  The project mimics building an internal reporting tool for a newpaper site to discover what kind of articles the site's readers like. The database contains newspaper articles, as well as the web server log for the site.
+This project is a part of the Udacity Intro To Programing Nano Degree.  The project mimics building an internal reporting tool for a newpaper site to discover what kind of articles the site's readers like. The database contains newspaper articles, as well as the web server log for the site.
 ## Technologies used
 1. PostgreSQL
 2. Writing Python code with DB-API
